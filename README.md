@@ -1,5 +1,5 @@
-# Burrow
-Burrow is a private server for AJ Classic.
+# Below
+Below is a private server for AJ Classic.
 
 # Disclaimer
 Burrow is an unofficial fan project. It is not affiliated with, endorsed by or connected to WildWorks, Inc. or Animal Jam. Animal Jam and Animal Jam Classic are trademarks of WildWorks, Inc.
